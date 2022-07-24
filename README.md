@@ -13,3 +13,8 @@ This repository contains my published and preprint papers
 * Paper03_Preprint
     * Title: The effect of greenhouse gases and black carbon aerosols on global warming
     * A Paper from my MPhil. Thesis
+
+* Conference_Presentation_Slides
+    * Presentation Title: Redescending M-estimators for Robust Regression: A Comparative Analysis based on efficiency factor
+    * Presented this paper in an International Conference.
+    * This paper is under preparation and will be published soon.
